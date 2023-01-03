@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A/sTFg56gwJ5YecNijwWEoAIGrZQUWmCE8/y4el6YnPKVfVkcmLfNWtDd13AV58BSU5Vy8FDodcpjGEWWBIkUQ==",
+  "success": true,
+  "projectFilePath": "C:\\5a9g0001\\Csharp-Public-Csharp-paint-2\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\extended.wpf.toolkit\\4.4.0\\extended.wpf.toolkit.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
